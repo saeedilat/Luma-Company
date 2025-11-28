@@ -19,4 +19,29 @@ body {
   background-color: #0a0a0a;
   width: 100vw;
   height: 100vh;
+  overflow-x: hidden;
+}
+@keyframes Marquee {
+  0% {
+    transform: translateX(300%);
+  }
+  100% {
+    transform: translateX(-300%);
+  }
+}
+@keyframes Marqueeright {
+  0% {
+    transform: translateX(-300%);
+  }
+  100% {
+    transform: translateX(300%);
+  }
+}
+.animate-marqueeright {
+  animation: Marqueeright linear infinite;
+  animation-duration: 22s;
+}
+.animate-marquee {
+  animation: Marquee linear infinite;
+  animation-duration: 22s;
 }

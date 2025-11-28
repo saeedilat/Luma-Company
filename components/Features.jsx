@@ -3,7 +3,7 @@ import React from "react";
 
 export default function Features() {
   return (
-    <div className="mt-20 w-full flex justify-center font-dirooz">
+    <div className="mt-24 w-full flex justify-center font-dirooz">
       <div className="flex justify-center w-fit gap-5 p-5 border border-[#212529] rounded-xl">
         <div className="w-[350px] p-px h-[312] flex justify-center items-center rounded-xl bg-linear-to-b from-[#343A40] to-[#080808]">
           <div className=" w-[350px] h-[311px] bg-[#080808] flex flex-col items-center overflow-hidden rounded-xl">

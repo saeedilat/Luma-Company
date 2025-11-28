@@ -1,4 +1,5 @@
 import CaseStudy from "@/components/CaseStudy";
+import Comments from "@/components/Comments";
 import Features from "@/components/Features";
 import FetureGuids from "@/components/FetureGuids";
 import Frame from "@/components/Frame";
@@ -16,6 +17,7 @@ export default function page() {
         <FetureGuids />
         <CaseStudy />
         <Frame />
+        <Comments />
       </div>
     </>
   );
