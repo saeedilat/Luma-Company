@@ -85,7 +85,7 @@ export default function Footer() {
             <div className="bg-[#212529] w-20 h-[115px]"></div>
           </div>
         </div>
-        <div className="w-[500px] h-[500px] -top-[152px] rounded-full absolute right-[30%]  bg-linear-to-r from-[#DA8FFF] via-[#FF6482] to-[#FFB340] blur-[1000px]"></div>
+        <div className="w-[500px] h-[500px] -top-[152px] rounded-full absolute right-[30%]  bg-linear-to-r from-[#DA8FFF] via-[#FF6482] to-[#FFB340] filter blur-[750px]"></div>
       </div>
       <p className="w-full justify-center flex mt-10 text-[#6C757D] text-[16px] font-semibold">
         تمامی حقوق این سایت متعلق به نبیولا است.
