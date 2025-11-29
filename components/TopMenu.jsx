@@ -1,7 +1,7 @@
 import React from "react";
-import { FaRegMoon } from "react-icons/fa";
 import { MdKeyboardArrowDown } from "react-icons/md";
 import { Roboto_Mono } from "next/font/google";
+import TaggleBtn from "./TaggleBtn";
 
 const roboto = Roboto_Mono({
   subsets: ["latin"],
@@ -34,11 +34,8 @@ export default function TopMenu() {
       </div>
 
       <div className="flex w-[235px] justify-between">
-        <div className="w-20 h-10 rounded-[86px] bg-[#3C0061] relative">
-          <FaRegMoon className="w-6 h-6 text-[#FFFFFF] absolute left-2.5 top-[7.83px]" />
-          <div className="w-[35px] h-[35px] rounded-full bg-[#FFFFFF] absolute left-[41px] top-[2.83px]"></div>
-        </div>
-        <button className="bg-[#3C0061] border-[#212529]  text-[#F8F9FA] font-bold leading-7 px-5 py-2 rounded-md font-dirooz">
+        <TaggleBtn />
+        <button className="bg-[#3C0061] hover:bg-[#27003F] btn border-[#212529]  text-[#F8F9FA] font-bold leading-7 px-5 py-2 rounded-md font-dirooz">
           ورود به حساب
         </button>
       </div>

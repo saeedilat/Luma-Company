@@ -45,3 +45,7 @@ body {
   animation: Marquee linear infinite;
   animation-duration: 22s;
 }
+.btn {
+  transition: background-color 0.4s;
+  cursor: pointer;
+}

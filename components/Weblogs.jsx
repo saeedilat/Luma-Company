@@ -27,7 +27,7 @@ export default function Weblogs() {
           </p>
         </div>
       </div>
-      <button className="bg-[#BF5AF2] mt-10 font-dirooz w-52 h-10 text-[#F8F9FA] font-bold text-[18px] rounded-md border border-[#212529]">
+      <button className="bg-[#BF5AF2] mt-10 font-dirooz w-52 h-10 text-[#F8F9FA] font-bold text-[18px] rounded-md border border-[#212529] hover:bg-[#9345BA] btn">
         مشاهده تمامی وبلاگ ها
       </button>
     </div>

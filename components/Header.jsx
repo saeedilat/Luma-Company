@@ -16,19 +16,18 @@ export default function Header() {
           وب‌سایت‌های مختلف ادغام شود تا تجربه کاربری منحصربه‌فردی برای شما و
           مخاطبانتان ایجاد کند.
         </p>
-        <button className="w-[137] h-10 bg-[#BF5AF2] rounded-md relative top-2 border-[#212529] font-bold text-[18px] flex justify-center items-center font-dirooz text-[#F8F9FA]">
+        <button className="w-[137] h-10 bg-[#BF5AF2] hover:bg-[#9345BA] btn rounded-md relative top-5 border-[#212529] font-bold text-[18px] flex justify-center items-center font-dirooz text-[#F8F9FA]">
           شروع به چت
         </button>
       </div>
-      <div className="w-[500px] relative">
+      <div className="w-[500px] h-[300px] relative">
         <Image
           src="/images/39545a511e3d5884fbf957aa9d7df473654589c6.png"
-          width={500}
-          height={100}
+          fill
           alt="AI"
           className="rounded-lg"
         />
-        <div className="absolute -bottom-2 flex justify-evenly w-full">
+        <div className="absolute bottom-2 flex justify-evenly w-full">
           <div className="w-[115px] h-2 bg-[rgba(248,249,250,0.09)] rounded-full"></div>
           <div className="w-[115px] h-2 bg-[rgba(248,249,250,0.09)] rounded-full"></div>
           <div className="w-[115px] h-2 bg-[rgba(248,249,250,0.09)] rounded-full"></div>

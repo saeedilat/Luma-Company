@@ -13,18 +13,21 @@ export default function Frame() {
           width={260}
           height={355}
           alt="exchenge"
+          className="cursor-pointer transition-transform duration-300 hover:scale-125"
         />
         <Image
           src="/images/582ff286ebe62c1ca86e1aa1e3aed96d0afb0967.png"
-          width={328}
-          height={435}
+          width={260}
+          height={355}
           alt="motion"
+          className="cursor-pointer transition-transform duration-300 hover:scale-125"
         />
         <Image
           src="/images/50d9b7233e6ac2354c5ac65f5b60ec886671e17c.png"
           width={260}
           height={355}
           alt="lampa"
+          className="cursor-pointer transition-transform duration-500 hover:scale-125"
         />
       </div>
     </div>

@@ -16,10 +16,10 @@ export default function CaseStudy() {
         />
       </div>
       <div className="mt-8 flex gap-5">
-        <button className="bg-[#BF5AF2] font-dirooz w-52 h-10 text-[#F8F9FA] font-bold text-[18px] rounded-md border border-[#212529]">
+        <button className="bg-[#BF5AF2] font-dirooz w-52 h-10 text-[#F8F9FA] font-bold text-[18px] rounded-md border border-[#212529] hover:bg-[#9345BA] btn">
           درخواست دموی رایگان
         </button>
-        <button className="bg-[#BF5AF2] font-dirooz w-[109px] h-10 text-[#F8F9FA] font-bold text-[18px] rounded-md border border-[#212529]">
+        <button className="bg-[#BF5AF2] font-dirooz w-[109px] h-10 text-[#F8F9FA] font-bold text-[18px] rounded-md border border-[#212529] hover:bg-[#9345BA] btn">
           راهکار ها
         </button>
       </div>

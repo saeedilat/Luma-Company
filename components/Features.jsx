@@ -23,7 +23,7 @@ export default function Features() {
             <p className="font-bold text-[18px] w-[300px] leading-7 mt-3 text-center text-[#6C757D]">
               همیشه آماده پاسخ به مشتریان بر اساس دانش اختصاصی
             </p>
-            <button className="font-bold mt-3 text-[15px] leading-7 text-[#F8F9FA] flex justify-center items-center w-[108px] h-7 border border-[#212529] rounded-md">
+            <button className="font-bold mt-3 text-[15px] leading-7 text-[#F8F9FA] flex justify-center items-center   w-[108px] h-7 border border-[#212529] rounded-md hover:bg-[#000000] btn">
               اطلاعات بیشتر
             </button>
           </div>
@@ -46,7 +46,7 @@ export default function Features() {
             <p className="font-bold text-[18px] w-[300px] leading-7 mt-3 text-center text-[#6C757D]">
               دستیار را با سایت یا اپلیکیشن‌تان یکپارچه کنید، بدون پیچیدگی.
             </p>
-            <button className="font-bold mt-3 text-[15px] leading-7 text-[#F8F9FA] flex justify-center items-center w-[108px] h-7 border border-[#212529] rounded-md">
+            <button className="font-bold mt-3 text-[15px] leading-7 text-[#F8F9FA] flex justify-center items-center w-[108px] h-7 border border-[#212529] rounded-md hover:bg-[#000000] btn">
               اطلاعات بیشتر
             </button>
           </div>
@@ -69,7 +69,7 @@ export default function Features() {
             <p className="font-bold text-[18px] w-[300px] leading-7 mt-3 text-center text-[#6C757D]">
               اطلاعات برندتان را وارد کنید و دستیاری منحصربه‌فرد بسازید.
             </p>
-            <button className="font-bold mt-3 text-[15px] leading-7 text-[#F8F9FA] flex justify-center items-center w-[108px] h-7 border border-[#212529] rounded-md">
+            <button className="font-bold mt-3 text-[15px] leading-7 text-[#F8F9FA] flex justify-center items-center w-[108px] h-7 border border-[#212529] rounded-md hover:bg-[#000000] btn">
               اطلاعات بیشتر
             </button>
           </div>
