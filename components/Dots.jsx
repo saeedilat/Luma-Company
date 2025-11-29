@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Dots() {
   return (
-    <div className=" w-full h-[3000px] absolute -z-10 top-[700px] left-0 right-0">
+    <div className=" w-full h-[3800px] absolute -z-10 top-[700px] left-0 right-0">
       <div
         className="w-full h-full "
         style={{
