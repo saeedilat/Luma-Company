@@ -1,6 +1,22 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# next.js task project
+
+این پروژه یک تسک عملی است برای ارزیابی در فرایند استخدامی توسط شرکت lumaAI
+
+## discription
+
+- این پروژه با next.js توسعه داده شده
+- نمایش روان وپویا المان ها (marquee,reveal,...)
+- صفحات داینامیک
+- component base
+- استایل دهی با tailwind
+
 ## Getting Started
+
+## لینک پیش نمایش آنلاین
+
+https://luma-flax.vercel.app/
 
 First, run the development server:
 
